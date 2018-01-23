@@ -4,6 +4,7 @@
 ![alt CI-badge](https://travis-ci.org/techfort/LokiJS.svg?branch=master)
 [![npm version](https://badge.fury.io/js/lokijs.svg)](http://badge.fury.io/js/lokijs)
 [![alt packagequality](http://npm.packagequality.com/shield/lokijs.svg)](http://packagequality.com/#?package=lokijs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FLokiJS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FLokiJS?ref=badge_shield)
 
 ## Overview
 
@@ -85,3 +86,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FLokiJS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FLokiJS?ref=badge_large)
